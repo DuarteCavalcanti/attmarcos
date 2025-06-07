@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(221, 222, 241); 
+} .quadrado {
+    border: 1px solid rgb(11, 11, 11); width: 100%; margin: 20px auto;
+
+    background-color: rgb(10, 45, 220);
+} .cor{
+    color: rgb(0, 0, 0);
+    
+
+} .texto{
+    text-align: center;
+    color: aliceblue;
+    
+
+} .link{
+    width: 50%;
+    text-align: left;
+    color: aliceblue;
+} .container {
+    place-items: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} .texto {
+    width: 50%;
+    text-align: left;
+} .imagem {
+    width: 60%;
+    text-align: right;
+}

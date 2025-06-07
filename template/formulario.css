@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+    
+   
+}.tt{
+        font-weight: bold;
+        color: rgb(29, 86, 217);
+        transform: rotateX(5deg) rotateY(5px);
+        transform-style: preserve-3d;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}   .linha{
+    border: 1px solid black; width: 50%; margin: 20px auto;
+}
